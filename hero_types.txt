@@ -1,0 +1,4 @@
+warrior - bonus per level: health(5%), damage(2%), mana(0,5%), physical_damage_reduction(5%), magical_damage_reduction(1%)
+desiccant - bonus per level: health(2%), damage(2%), mana(3%), physical_damage_reduction(0.5%), magical_damage_reduction(3%)
+healer - bonus per level: health(2%), damage(1%), mana(3,5%), physical_damage_reduction(1%), magical_damage_reduction(2%)
+caster - bonus per level: health(2.5%), damage(2%), mana(4%), physical_damage_reduction(1%), magical_damage_reduction(3%)
